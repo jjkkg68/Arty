@@ -1,1 +1,5 @@
-{"dialogBtnExtraTxt":"What\u0027s new ?","dialogOption":"message","openLinkMain":"https://rubika.ir/maryyyyyiiii","openLinkExtra":"null","dialogSubtitle":"گرافیک و روابط کاربری بهتر","alertOption":"dialog","dialogBtnExtra":"false","isCancelable":"true","email":"tbytalhy@gmail.com","dialogBtnExtraClick":"exit","dialogBtnMainTxt":"بروزرسانی","currVersion":"1.1","dialogBtnMainClick":"browser","isOneTime":"false","dialogBtnMain":"true","developer":"LrgeJJlx5Wg1gfuWC7c4iUHWgqp2","dialogTitle":"بروزرسانی جدید سین زن","isOneTimeKey":"null","newVersion":"1.1"}
+{
+  "عنوان ": "سلام",
+  "متن": "خوبی",
+  "لینک ": "https://takipstar.com/giris"
+}
