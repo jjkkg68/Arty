@@ -1,6 +1,6 @@
 [{
   "نام": "کانال یاب روبیکا",
-  "عکس": "https://up.20script.ir/files/be1d-IMG-%DB%B2%DB%B0%DB%B2%DB%B1%DB%B1%DB%B0%DB%B2%DB%B8-%DB%B0%DB%B7%DB%B3%DB%B5%DB%B1%DB%B8.jpg",
+  "عکس": "https://up.20script.ir/files/0b2e-%DB%B2%DB%B0%DB%B2%DB%B1%DB%B1%DB%B1%DB%B1%DB%B1-%DB%B1%DB%B9%DB%B1%DB%B0%DB%B3%DB%B7.jpg",
   "توضیحات": "ثبت کانال به صورت رایگان",
   "آیدی": "scketchware_tools"
 }]
